@@ -1,4 +1,4 @@
-##Developer Survey Analysis (EDA Project)
+## Developer Survey Analysis (EDA Project)
 
 This project combines several exploratory analyses of a developer survey dataset into a single end-to-end data analysis workflow. The goal is to understand compensation patterns, experience levels, job satisfaction, and trends in technologies and work styles among developers.
 
