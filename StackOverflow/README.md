@@ -7,7 +7,7 @@ Handled missing values across key variables
 Removed duplicate records
 Detected and removed outliers in compensation data (ConvertedCompYearly)
 Applied normalization to numerical features for consistent analysis
--💰 Compensation Analysis
+- 💰 Compensation Analysis
 Analyzed the distribution of annual compensation among developers
 Calculated median salary for full-time employees
 Compared compensation levels across different countries
