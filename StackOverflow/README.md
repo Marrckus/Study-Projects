@@ -2,7 +2,7 @@ Developer Survey Analysis (EDA Project)
 
 This project combines several exploratory analyses of a developer survey dataset into a single end-to-end data analysis workflow. The goal is to understand compensation patterns, experience levels, job satisfaction, and trends in technologies and work styles among developers.
 
--📌 Data Cleaning & Preparation
+## 📌 Data Cleaning & Preparation
 Handled missing values across key variables
 Removed duplicate records
 Detected and removed outliers in compensation data (ConvertedCompYearly)
