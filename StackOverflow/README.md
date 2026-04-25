@@ -19,22 +19,22 @@ professional experience (WorkExp, YearsCodePro)
 job satisfaction (JobSat, JobSatPoints_1)
 Visualized correlations using heatmaps
 Used scatter plots to explore pairwise relationships
--🧑‍💻 Experience & Job Satisfaction
+- 🧑‍💻 Experience & Job Satisfaction
 Analyzed how job satisfaction varies with years of professional coding experience
 Grouped respondents by experience level
 Calculated median satisfaction scores per group
 Visualized distribution of job satisfaction
--🌍 Remote Work & Employment Trends
+- 🌍 Remote Work & Employment Trends
 Explored remote work preferences across different job roles and employment types
 Analyzed relationships between Employment and RemoteWork
 Used cross-tabulation and visualizations to identify patterns
--💻 Programming Languages Analysis
+- 💻 Programming Languages Analysis
 Compared most commonly used vs. most desired programming languages
 Analyzed language popularity across different regions
 Visualized differences in technology preferences
--🎓 Education & Employment
+- 🎓 Education & Employment
 Investigated the relationship between education level (EdLevel) and employment type
 Used cross-tabulation to identify structural patterns in the data
--📌 Summary
+- 📌 Summary
 
 This project provides a comprehensive exploratory data analysis of a developer survey, covering compensation, experience, satisfaction, technology preferences, and work trends. It highlights key patterns in the global developer ecosystem through data cleaning, statistical analysis, and visualization.
